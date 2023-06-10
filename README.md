@@ -3,6 +3,7 @@ I am a computer scientist and I am passionated about learning languages, whether
 - 🎓 I'm graduating in Computer Science at Federal Fluminense University - Rio de Janeiro - Brazil.
 - 🔭 I love learning new things, specially when it comes to computers subject.
 - 💻 I code in C, C++, Javascript, Python, Java and some more that you might find in one of my repo's.
+- 🌎 I'm able to speak German, Spanish, Portuguese, English and a bit of French, Italian and so.
 
 <!--
 **martinswagner021/martinswagner021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
